@@ -44,4 +44,6 @@
 #include "P_CacheInternal.h"
 #include "P_CacheHosting.h"
 #include "P_CacheHttp.h"
+#include "clusterinterface.h"
+
 #endif /* _P_CACHE_H */
